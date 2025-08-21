@@ -10,10 +10,11 @@
 - Install socat if not present, for example by command `sudo apt install socat`
 - Run proxy in terminal `./occupant-telnet-proxy-filter.sh`
 - Run `wine Aggregator_v6.4.exe` and setup.
+<br>
 
 ---
 
-<br><br><br>
+<br><br>
 
 ![occupants](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Franti%C5%A1ek_Dost%C3%A1l_Srpen_1968_4_%28cropped%29.jpg/330px-Franti%C5%A1ek_Dost%C3%A1l_Srpen_1968_4_%28cropped%29.jpg)
-*In memory of the victims of the [occupation of Czechoslovakia on August 21, 1968](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia)*
+<br>*In memory of the victims of the [occupation of Czechoslovakia on August 21, 1968](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia)*
