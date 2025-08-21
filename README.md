@@ -1,6 +1,6 @@
 # Telnet proxy filter
 
-**MITM telnet proxy for filtrate occupants in DX cluster**
+**MITM Telnet proxy to filter occupants in a DX cluster**
 
 ## How to use on linux
 - Start the cw skimmer server in wine, for example: `wine /home/dan/.wine/drive_c/Program\ Files/Afreet/SkimSrv/SkimSrv.exe`

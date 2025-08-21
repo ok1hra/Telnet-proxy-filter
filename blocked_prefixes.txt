@@ -1,0 +1,3 @@
+^R         # all start R (RA–RZ, R)
+^U[A-I]    # UA–UI
+^E[UVW]    # EU, EV, EW
